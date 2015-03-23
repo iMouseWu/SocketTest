@@ -13,6 +13,7 @@
 	<dependencies>
 	</dependencies>
 	<build>
+	 <sourceDirectory>${project.basedir}/src</sourceDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
